@@ -16,6 +16,7 @@ export default defineConfig({
         "http",
         "agentkeepalive",
         "viem",
-        "@elizaos/core"
+        "@elizaos/core",
+        "@sei-js/evm"
     ],
 });
